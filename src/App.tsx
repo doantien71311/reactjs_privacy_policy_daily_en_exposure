@@ -2,8 +2,6 @@
 // import reactLogo from "./assets/react.svg";
 // import viteLogo from "/vite.svg";
 // import { useEffect } from "react";
-import imageLogo from "./assets/image_logo.png";
-import logoSendingExpeditionApp from "./assets/logo_sending_expedition_app.png";
 import logoDailyEnExposureApp from "./assets/logo_daily_en_exposure_app.png";
 // import "./App.css";
 import { useTranslation } from "react-i18next";
