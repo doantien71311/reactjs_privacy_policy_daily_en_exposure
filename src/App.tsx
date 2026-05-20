@@ -29,7 +29,7 @@ function App() {
         hiểm chi tiêu (hereby referred to as "Application") for mobile devices
         that was created by MrTien71311 (hereby referred to as "Service
         Provider") as a Free service. This service is intended for use "AS IS". */}
-        This privacy policy applies to the mobile Tiếp xúc EN hằng ngày app
+        This privacy policy applies to the mobile applications Tiếp xúc EN hằng ngày app
         (hereinafter collectively referred to as the "Applications") for mobile
         devices. These Applications were created by MrTien71311 (hereinafter
         referred to as the "Service Provider") and are provided as free
